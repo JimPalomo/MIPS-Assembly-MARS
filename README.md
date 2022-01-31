@@ -9,5 +9,5 @@ The program is divided into three parts.
 2: Evaluate the width of each binary number and form an array of widths
 3: Form histogram array consisting of all width computations
 
-<!-- ## Example: -->
-<!-- ![alt text] -->
+### Example:
+![alt text](https://github.com/JimPalomo/mips-prog-array-n-width/blob/main/assets/sample-1.png)
